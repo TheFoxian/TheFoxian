@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFoxian
 - 👀 I’m interested in development and deployment
 - 🌱 I’m currently learning skills enhancing program through IBM congitive classes for front end UI building
-- 💞️ I’m looking to collaborate on web development, Application development, chatbot development and other web-services. 
+- 💞️ I’m looking to collaborate on web development and other web-services. 
 - 📫 If you're interested in working with me you can mail me foxian.foxyarts@gmail.com.
 - 👋 Do not forget to visit my projects and gits also starthem and contribute yoursleves.
 
